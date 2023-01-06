@@ -20,7 +20,7 @@ button.addEventListener("click", () => {
     }
 
     if(valueProposition3.checked == true) {
-        text = "By becoming a sponsor, you’ll have the opportunity to advertise [COMPANY PRODUCT/SERVICE] to our group of aspiring [GROUP] developers. We’d also love to provide [PRODUCT/SERVICE] as winner prizes if you are interested in offering a non-monetary sponsorship."
+        text = "By becoming a sponsor, you’ll have the opportunity to advertise [COMPANY PRODUCT/SERVICE] to our group of aspiring [GROUP] developers. We’d also love to provide [PRODUCT/SERVICE] as winner prizes if you are interested in offering a non-monetary sponsorship"
     }
     
     var jamhacks = "JAMHacks 7"
